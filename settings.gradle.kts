@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "depleak"
 include(":app")
+include(":my-module")
